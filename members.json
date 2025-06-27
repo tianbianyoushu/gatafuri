@@ -1,7 +1,7 @@
 [
     {
         "name": "たなゆー",
-        "title": "Webデザイナー / フロントエンドエンジニア",
+        "title": "コンテンツクリエイター",
         "bio": "新潟市を拠点に活動しています。UI/UXデザインからコーディングまで一貫して対応可能です。趣味はカメラと温泉めぐり。お仕事のご相談、お気軽にどうぞ！",
         "iconUrl": "tanayu_icon.png"
     },
@@ -9,24 +9,24 @@
         "name": "しょこ",
         "title": "Webライター / 編集者",
         "bio": "企業のオウンドメディアやブログ記事の執筆をメインに活動中。SEOを意識したコンテンツ作りが得意です。最近は動画シナリオにも挑戦しています。",
-        "iconUrl": "https://via.placeholder.com/100"
+        "iconUrl": "shoko_icon.png"
     },
     {
         "name": "センキュー",
-        "title": "Webライター / 編集者",
-        "bio": "企業のオウンドメディアやブログ記事の執筆をメインに活動中。SEOを意識したコンテンツ作りが得意です。最近は動画シナリオにも挑戦しています。",
-        "iconUrl": "https://via.placeholder.com/100"
+        "title": "鍼灸師",
+        "bio": "最近は動画シナリオにも挑戦しています。",
+        "iconUrl": "senkyu_icon.png"
     },
     {
         "name": "さわこ",
         "title": "Webライター / 編集者",
         "bio": "企業のオウンドメディアやブログ記事の執筆をメインに活動中。SEOを意識したコンテンツ作りが得意です。最近は動画シナリオにも挑戦しています。",
-        "iconUrl": "https://via.placeholder.com/100"
+        "iconUrl": "sawako_icon.png"
     },
     {
         "name": "うにゃにゃんこ",
         "title": "Webライター / 編集者",
         "bio": "企業のオウンドメディアやブログ記事の執筆をメインに活動中。SEOを意識したコンテンツ作りが得意です。最近は動画シナリオにも挑戦しています。",
-        "iconUrl": "https://via.placeholder.com/100"
+        "iconUrl": "uniyan_icon.png"
     }
 ]
