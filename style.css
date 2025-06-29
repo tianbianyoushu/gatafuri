@@ -171,7 +171,7 @@ section {
 }
 
 #members h3 {
-    padding: 0 30px; /* 見出しには左右のパディングを適用 */
+    text-align: center; /* 中央揃えに変更 */
 }
 
 #members::before,
