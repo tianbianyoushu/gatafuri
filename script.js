@@ -38,4 +38,22 @@ document.addEventListener('DOMContentLoaded', () => {
             }
         })
         .catch(error => console.error('Error loading members:', error));
+
+    // --- スクロールアニメーション ---
+    const sections = document.querySelectorAll('section');
+
+    const observer = new IntersectionObserver((entries) => {
+        entries.forEach(entry => {
+            if (entry.isIntersecting) {
+                entry.target.classList.add('visible');
+                observer.unobserve(entry.target); // 一度表示したら監視を解除
+            }
+        });
+    }, {
+        threshold: 0.1 // 10%表示されたら実行
+    });
+
+    sections.forEach(section => {
+        observer.observe(section);
+    });
 });
